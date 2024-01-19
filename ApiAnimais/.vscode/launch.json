@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+        "name": ".NET Core Launch (web)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "C:/Users/T-GAMER/Desktop/PROJETOS/C#/ApiAnimais_MeuProjeto/ApiAnimais/bin/Debug/net7.0/ApiAnimais.dll",
+        "args": [],
+        "cwd": "C:/Users/T-GAMER/Desktop/PROJETOS/C#/ApiAnimais_MeuProjeto/ApiAnimais",
+        "stopAtEntry": false,
+        "console": "internalConsole"
+        }
+    ]
+}
